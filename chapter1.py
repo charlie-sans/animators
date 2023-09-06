@@ -1,0 +1,1 @@
+frames = ["welcome",'to','the','virtual', 'term', 'animator','this','software','allows','you','to','animate', 'in', 'a','terminal', 'using', 'ascii', 'art',]
